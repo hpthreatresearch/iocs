@@ -22,3 +22,6 @@ int-onedrive.com
 
 # 2021-10-13
 us-dropbox.com
+
+# 2021-10-14
+cdnfilesdrop.com

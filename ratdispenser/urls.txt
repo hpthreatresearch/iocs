@@ -1,0 +1,16 @@
+# RatDispenser samples which deploy various RATs
+
+# Panda Stealer
+hxxps://paste[.]ee/r/ZnmM9
+hxxps://paste[.]ee/r/R1fSl
+hxxps://paste[.]ee/r/jeSec
+hxxps://paste[.]ee/r/hRcus
+hxxps://paste[.]ee/r/O6bFN
+hxxps://paste[.]ee/r/Kcxxm
+
+# Formbook
+hxxp://195[.]133[.]40[.]98/files/new[.]exe
+hxxp://185[.]219[.]133[.]122/svc[.]exe
+hxxp://185[.]219[.]133[.]122/task[.]exe
+hxxp://103[.]141[.]138[.]12/host[.]exe
+hxxp://185[.]219[.]133[.]122/xamp/wa[.]exe

@@ -1,0 +1,47 @@
+Files:
+9c77c4295a6bbe390fafb801d38e21615a684dd62cbbe276076c1a1c71dedcbe  rs0494357706y.html
+9e6a95f8e6bc676b583c26020c8dea0d12c46b0d4441dfb306be24806c7ea00c  RS0494357706Y.iso
+f98939d066a7065b750c6813a1ba0557acf80bbf36b54a48b2bd51df82f66a87  RS0494357706Y.vbs
+2ba416e9d1ba8a3c9564361b8dfce8ee27d9806fe6dd964b04966ca70b106b8a  UK.jpg
+433fbcb3affbd6ff94fc3613f76abc1c2cc02ae94ade559ce2f57c6f23b5e167  x64.bat
+0c2bb3e84cc99eced7a999b2ff8a068f3993a8a80487fbff55b8e0083bb43c9e  x64.ps1
+f5a1f382b0ad14954c1ac2c9ff4777c9942dd1ae26eaed2065107caf3eafb09c  x64.vbs
+9de128cd757736b0652bbf6c77c098c2276c5756c762c7b71917b8b956a8f908  runpe.dll
+6f105d359fe32edd24c3e5a441f3f8d3f4be7fad856ce7b0e606e9e18b742024  1981.exe
+
+Payload URL:
+hxxp://51.81.94[.]115:888/UK.jpg
+
+Domains:
+superfaster1.is-found[.]org
+superfaster22.selfip[.]info
+superslow.is-a-nascarfan[.]com
+superhay.is-a-geek[.]com
+superziad.is-a-liberal[.]com
+
+Mutex:
+AsyncMutex_6SI8OkPnk
+
+Version:
+| Edit 3LOSH RAT
+
+Certificate:
+{
+[Subject]
+  	  CN=AsyncRAT Server
+
+[Issuer]
+  	  CN=AsyncRAT Server
+
+[Serial Number]
+  	  00F796438609DCCBD17821B02F39FBAD
+
+[Not Before]
+  	  4/24/2022 8:41:09 PM
+
+[Not After]
+  	  12/31/9999 6:59:59 PM
+
+[Thumbprint]
+  	  C0742FCFAC0826954D1FB66F1EAB22B391B17590
+}
